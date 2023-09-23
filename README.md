@@ -4,6 +4,7 @@ This project contains a series of components that work together in order to prov
 This project is meant to be an exersice for me to learn and practice both React and Git/Github.
 
 ### Sample usage:
+```
 <BrowserRouter>
     <Route path={'/home/'}>
       <HomeComponent/>
@@ -18,3 +19,4 @@ This project is meant to be an exersice for me to learn and practice both React 
       <Link>
     </Route>
 </BrowserRouter>
+```
